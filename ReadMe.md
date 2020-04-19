@@ -1,39 +1,39 @@
 
 
-»ùÓÚJava-SocketµÄ¶àÓÃ»§¼´Ê±ÁÄÌì
+åŸºäºŽJava-Socketçš„å¤šç”¨æˆ·å³æ—¶èŠå¤©
 ===========================
  Copyright: Copyright (c) 2020  
  Created on 2020-4-1    
  Author:zengxiaochao666@gmail.com  
  Version 1.0  
-### »·¾³ÒÀÀµ
+### çŽ¯å¢ƒä¾èµ–
 > JDK1.8
-### ²¿Êð²½Öè
-> 1. import¹¤³Ì°üµ½ÄãµÄIDEA
-> 2. ÏÈÔËÐÐserver.class£¬ÔÚÔËÐÐlogin.class
-> 3. ¿É¶à´ÎÔËÐÐlogin£¨ÔËÐÐ¶à¸ö£©£¬ÊµÏÖ¶àÓÃ»§ÁÄÌì
+### éƒ¨ç½²æ­¥éª¤
+> 1. importå·¥ç¨‹åŒ…åˆ°ä½ çš„IDEA
+> 2. å…ˆè¿è¡Œserver.classï¼Œåœ¨è¿è¡Œlogin.class
+> 3. å¯å¤šæ¬¡è¿è¡Œloginï¼ˆè¿è¡Œå¤šä¸ªï¼‰ï¼Œå®žçŽ°å¤šç”¨æˆ·èŠå¤©
 
-###Ä¿Â¼½á¹¹ÃèÊö
-©À©¤©¤ src                      // ´úÂëÒÔ¼°×ÊÔ´ÎÄ¼þ  
-©¦   ©À©¤©¤ res                  //×ÊÔ´ÎÄ¼þ£¬ÓÃÓÚ±íÇé°ü
-©¦   ©À©¤©¤ client               // ¿Í»§¶Ë³ÌÐò  
-©¦   ©À©¤©¤ login                // µÇÂ½³ÌÐò  
-©¦   ©À©¤©¤ mianban              // ÁÄÌìÃæ°å  
-©¦   ©À©¤©¤ person_list          // ÓÃ»§Ãæ°å  
-©¦   ©À©¤©¤ read                 // ¶ÁÈ¡ÅäÖÃÎÄ¼þ  
-©¦   ©¸©¤©¤ write                // Ð´ÈëÅäÖÃÎÄ¼þ  
-©¦   ©¸©¤©¤ server               // ·þÎñ¶Ë³ÌÐò  
-©À©¤©¤ chat.properties          //ÅäÖÃÎÄ¼þ  
-©À©¤©¤ online.properties        //ÔÚÏß±ê¼Ç  
-©À©¤©¤ pwd.properties              //ÕËºÅÃÜÂë  
-©À©¤©¤ JavaEE.iml    
-©¸©¤©¤ ReadMe.md                   //help
+###ç›®å½•ç»“æž„æè¿°  
+â”œâ”€â”€ src                      // ä»£ç ä»¥åŠèµ„æºæ–‡ä»¶  
+â”‚   â”œâ”€â”€ res                  //èµ„æºæ–‡ä»¶ï¼Œç”¨äºŽè¡¨æƒ…åŒ…   
+â”‚   â”œâ”€â”€ client               // å®¢æˆ·ç«¯ç¨‹åº  
+â”‚   â”œâ”€â”€ login                // ç™»é™†ç¨‹åº  
+â”‚   â”œâ”€â”€ mianban              // èŠå¤©é¢æ¿  
+â”‚   â”œâ”€â”€ person_list          // ç”¨æˆ·é¢æ¿  
+â”‚   â”œâ”€â”€ read                 // è¯»å–é…ç½®æ–‡ä»¶  
+â”‚   â””â”€â”€ write                // å†™å…¥é…ç½®æ–‡ä»¶  
+â”‚   â””â”€â”€ server               // æœåŠ¡ç«¯ç¨‹åº  
+â”œâ”€â”€ chat.properties          //é…ç½®æ–‡ä»¶  
+â”œâ”€â”€ online.properties        //åœ¨çº¿æ ‡è®°  
+â”œâ”€â”€ pwd.properties              //è´¦å·å¯†ç   
+â”œâ”€â”€ JavaEE.iml    
+â””â”€â”€ ReadMe.md                   //help
 
 
 
-### V1.0.0 °æ±¾ÄÚÈÝ¸üÐÂ
-> 1. ÓÃ»§¿ÉÒÔÑ¡Ôñ·¢ËÍ¸øË½ÈËÏûÏ¢
-> 2. ¶àÓÃ»§ÔÚÏß
-> 2. ÓÃ»§¿ÉÒÔ·¢ËÍËæ»ú±íÇé£¬ÏÔÊ¾Í¼Æ¬
+### V1.0.0 ç‰ˆæœ¬å†…å®¹æ›´æ–°
+> 1. ç”¨æˆ·å¯ä»¥é€‰æ‹©å‘é€ç»™ç§äººæ¶ˆæ¯
+> 2. å¤šç”¨æˆ·åœ¨çº¿
+> 2. ç”¨æˆ·å¯ä»¥å‘é€éšæœºè¡¨æƒ…ï¼Œæ˜¾ç¤ºå›¾ç‰‡
 
  
