@@ -12,6 +12,8 @@
 > 1. import工程包到你的IDEA
 > 2. 先运行server.class，在运行login.class
 > 3. 可多次运行login（运行多个），实现多用户聊天
+> 4. 在pwd.propertiess随便编写一个账号密码，并在online.properties标记相应账号为0（未在线）
+
 
 ###目录结构描述  
 ├── src                      // 代码以及资源文件  
